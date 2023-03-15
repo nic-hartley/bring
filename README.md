@@ -1,6 +1,6 @@
 # `bring`, the webring enabler
 
-[Webring])https://en.wikipedia.org/wiki/Webring)s are cool!
+[Webring](https://en.wikipedia.org/wiki/Webring)s are cool!
 I think people should make more of 'em.
 So here's `bring`.
 
