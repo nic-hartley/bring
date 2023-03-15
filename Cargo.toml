@@ -2,5 +2,7 @@
 name = "bring"
 version = "0.0.1"
 edition = "2021"
+description = "Webring-enabling reverse proxy and API"
+license = "BSD-3-Clause"
 
 [dependencies]
